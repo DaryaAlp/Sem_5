@@ -1,0 +1,15 @@
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.csproj.AssemblyReference.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.AssemblyInfoInputs.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.AssemblyInfo.cs
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.csproj.CoreCompileInputs.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\bin\Debug\net7.0\35.exe
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\bin\Debug\net7.0\35.deps.json
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\bin\Debug\net7.0\35.runtimeconfig.json
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\bin\Debug\net7.0\35.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\bin\Debug\net7.0\35.pdb
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\refint\35.dll
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.pdb
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\35.genruntimeconfig.cache
+D:\Курсы_программирование\C#\Семинары_C#\Sem_5\35\obj\Debug\net7.0\ref\35.dll
